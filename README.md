@@ -1,6 +1,6 @@
 # Meander Channel VAE
 
-This project implements Variational Autoencoders (VAEs) to generate new images of meander-type geological channels. The dataset consists of 50,000 images of size 128x128 pixels, where yellow (1) represents the channel class and blue (0) represents the non-channel class. Two types of VAEs are explored: Convolutional + Dense and Fully Convolutional. This project is a technical challenge proposed by LTrace company.
+This project implements Variational Autoencoders (VAEs) to generate new images of meander-type geological channels. The dataset consists of 50,000 images of size 128x128 pixels, where yellow (1) represents the channel class and blue (0) represents the non-channel class. Two types of VAEs are explored: Convolutional + Dense and Fully Convolutional. This project is developed as a technical challenge proposed by LTrace company.
 
 ## Project structure
 ```bash
